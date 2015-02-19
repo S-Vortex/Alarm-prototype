@@ -5,3 +5,5 @@ c:\users\tc3p0\documents\visual studio 2010\Projects\Scripture Alarm Prototype\S
 c:\users\tc3p0\documents\visual studio 2010\Projects\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Debug\Scripture Alarm Prototype.csproj.GenerateResource.Cache
 c:\users\tc3p0\documents\visual studio 2010\Projects\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Debug\Scripture Alarm Prototype.exe
 c:\users\tc3p0\documents\visual studio 2010\Projects\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Debug\Scripture Alarm Prototype.pdb
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Debug\Scripture Alarm Prototype.exe
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Debug\Scripture Alarm Prototype.pdb
