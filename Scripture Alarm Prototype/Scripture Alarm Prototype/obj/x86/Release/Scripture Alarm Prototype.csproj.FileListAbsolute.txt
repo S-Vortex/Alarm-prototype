@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\bin\Release\Scripture Alarm Prototype.exe
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\bin\Release\Scripture Alarm Prototype.pdb
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Release\Scripture_Alarm_Prototype.Form1.resources
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Release\Scripture_Alarm_Prototype.Properties.Resources.resources
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Release\Scripture Alarm Prototype.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Release\Scripture Alarm Prototype.exe
+C:\Users\Sam\Documents\GitHub\Alarm-prototype\Scripture Alarm Prototype\Scripture Alarm Prototype\obj\x86\Release\Scripture Alarm Prototype.pdb
