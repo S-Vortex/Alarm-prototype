@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.emCallButton = new System.Windows.Forms.Button();
             this.doneButton = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -54,6 +54,35 @@
             this.panel1.Size = new System.Drawing.Size(452, 815);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(5, 239);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(162, 32);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Verse Title";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // panel2
+            // 
+            this.panel2.Location = new System.Drawing.Point(7, 287);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(432, 437);
+            this.panel2.TabIndex = 6;
+            this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(159, 10);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(270, 39);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "change verse";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // label2
             // 
@@ -101,33 +130,6 @@
             this.doneButton.TabIndex = 0;
             this.doneButton.Text = "Done";
             this.doneButton.UseVisualStyleBackColor = true;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(159, 10);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(270, 39);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "change verse";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
-            // 
-            // panel2
-            // 
-            this.panel2.Location = new System.Drawing.Point(7, 287);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(432, 437);
-            this.panel2.TabIndex = 6;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(5, 239);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(162, 32);
-            this.label3.TabIndex = 7;
-            this.label3.Text = "Verse Title";
             // 
             // Form1
             // 
